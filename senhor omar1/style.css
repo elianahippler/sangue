@@ -1,0 +1,19 @@
+body{background-image:(url:ulutração.png);}
+*{margin: 0; padding: 0;}
+
+.row{
+	margin: 0 auto;
+}
+.resultado_certo{
+	background-color: green;
+	padding: 5px;
+	color: #FFF;
+	margin: 5px;
+}
+
+.resultado_errado{
+	background-color: red;
+	color: #FFF;
+    padding: 5px;
+	margin: 5px;
+}
